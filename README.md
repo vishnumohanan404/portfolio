@@ -1,5 +1,4 @@
-## Personal Portfolio
 
-**NEXTJS + NETLIFY**
+# NEXTJS + NETLIFY
 
-[Live](http://vishnumohan.online/)
+## [Live](http://vishnumohan.online/)
