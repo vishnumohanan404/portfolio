@@ -1,3 +1,5 @@
 ## Personal Portfolio
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+**NEXTJS + NETLIFY**
+
+[Live](http://vishnumohan.online/)
