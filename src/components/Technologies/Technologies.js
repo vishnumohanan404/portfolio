@@ -19,7 +19,7 @@ const Technologies = () => (
     <SectionDivider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I started my coding journey with c and c++ which I learned a few years
+      I started my cs journey with c and c++ which I learned a few years
       ago, after getting back to coding my first choice for learning was
       javascript and once I had a grip with Js I started learning related
       ecosystems such as NodeJs and React

@@ -16,7 +16,7 @@ export const projects = [
     image: "/images/2.png",
     tags: ["React", "Node", "Mongo", "Socket"],
     source: "https://github.com/KingKong26/space",
-    visit: "https://google.com",
+    visit: "https://elated-northcutt-8d3f74.netlify.app",
     id: 1,
   },
   {
@@ -25,7 +25,7 @@ export const projects = [
       "A dead simple real-time video call application using realtime library 'simple-peer' and webRTC",
     image: "/images/3.jpg",
     tags: ["React", "WebRTC", "Socket"],
-    source: "https://google.com",
+    source: "https://github.com/KingKong26/webrtc-video-call-client",
     visit: "https://kingkong-video-chat-app.netlify.app/",
     id: 2,
   },
